@@ -1,2 +1,2 @@
 # a-terrible-game
-This is just a terrible infine platformer in developpement.
+This is just a terrible infinite platformer in developpement.
